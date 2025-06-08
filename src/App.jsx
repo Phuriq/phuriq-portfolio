@@ -39,7 +39,7 @@ function App() {
           <div className="px-4 pt-24 container flex justify-between items-center gap-12 mx-auto">
             <div className="">
               <div>
-                <h1 className="text-7xl font-bold">Phuriq</h1>
+                <h1 className="text-7xl font-bold">Phuri siripool</h1>
               </div>
               <div className="mt-6 gap-12">
                 <div className="">
@@ -55,7 +55,7 @@ function App() {
                 </div>
                 <div>
                   <h2 className="mt-4 font-semibold text-2xl">Contact</h2>
-                  <div className="grid grid-cols-3 gap-6 w-fit max-w-full mt-4">
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-fit max-w-full mt-4">
                     {contact.map((phuriq, index) => (
                       <div className="grid grid-cols-1" key={index}>
                         <a
