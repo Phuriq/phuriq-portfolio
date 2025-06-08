@@ -55,7 +55,7 @@ function App() {
                 </div>
                 <div>
                   <h2 className="mt-4 font-semibold text-2xl">Contact</h2>
-                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-fit max-w-full mt-4">
+                  <div className="grid grid-cols-3 gap-6 w-fit max-w-full mt-4">
                     {contact.map((phuriq, index) => (
                       <div className="grid grid-cols-1" key={index}>
                         <a
