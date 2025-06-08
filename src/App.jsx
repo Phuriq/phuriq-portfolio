@@ -39,7 +39,7 @@ function App() {
           <div className="px-4 pt-24 container flex justify-between items-center gap-12 mx-auto">
             <div className="">
               <div>
-                <h1 className="text-7xl font-bold">Phuri siripool</h1>
+                <h1 className="text-7xl font-bold">Phuriq</h1>
               </div>
               <div className="mt-6 gap-12">
                 <div className="">
